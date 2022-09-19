@@ -1,0 +1,252 @@
+[33mcommit f770dec0f570f8e6fdd908373fc5e07e036a468d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 13511ae 6485870
+Author: Ioav Livneh <45475621+ioavliv@users.noreply.github.com>
+Date:   Tue May 11 16:45:42 2021 -0400
+
+    Merge pull request #13 from Sakshi16/sunday
+    
+    Sunday
+
+[33mcommit 6485870b539f7b0775245278aed44a234bbc5c1d[m[33m ([m[1;31morigin/sunday[m[33m)[m
+Author: ioavliv <ilivneh@nyit.edu>
+Date:   Tue May 11 16:44:00 2021 -0400
+
+    Add error-handling on posting challenge
+
+[33mcommit d6d636041abb000e3836f18e3d736be712d3bd90[m
+Merge: d066654 7ae0c4c
+Author: ioavliv <ilivneh@nyit.edu>
+Date:   Tue May 11 16:17:07 2021 -0400
+
+    Merge remote-tracking branch 'origin/sunday' into sunday
+
+[33mcommit d066654174e1a4b3db435b8020ac58e0bcc46140[m
+Author: ioavliv <ilivneh@nyit.edu>
+Date:   Tue May 11 16:16:04 2021 -0400
+
+    New Profile UI, added challenge and user object, connected to firebase
+
+[33mcommit 13511ae63b511e5e9f9f06ad97d3be697c06926d[m
+Merge: e8bc0f1 7ae0c4c
+Author: Ioav Livneh <45475621+ioavliv@users.noreply.github.com>
+Date:   Mon May 10 16:10:51 2021 -0400
+
+    Merge pull request #12 from Sakshi16/sunday
+    
+    Third party login UI, user object, profile display user info
+
+[33mcommit 7ae0c4c26eec21423a92d754882fc7c0a563426a[m
+Merge: 9950661 e8bc0f1
+Author: Ioav Livneh <45475621+ioavliv@users.noreply.github.com>
+Date:   Mon May 10 16:10:29 2021 -0400
+
+    Merge branch 'master' into sunday
+
+[33mcommit 9950661e535d7881bbe71355f823da17ba89127c[m
+Author: ioavliv <ilivneh@nyit.edu>
+Date:   Mon May 10 16:07:09 2021 -0400
+
+    User info stored in firebase realtime database on registration
+
+[33mcommit e8bc0f181f7ed422f8201a38ca6bdc26218de732[m
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Sun May 9 18:06:24 2021 -0400
+
+    Add github logo in drawable
+
+[33mcommit e999e15c9ad9df2c45dde9e104c769240dd731d8[m
+Author: ioavliv <ilivneh@nyit.edu>
+Date:   Sun May 9 17:29:06 2021 -0400
+
+    Third party login UI, user object, profile display user info
+
+[33mcommit 8cbbfbcff4b4534690e1fb18c0bf05f1b981d895[m
+Merge: bc9e259 017696a
+Author: Ioav Livneh <45475621+ioavliv@users.noreply.github.com>
+Date:   Sun May 9 09:28:21 2021 -0400
+
+    Merge pull request #11 from Sakshi16/sunday
+    
+    Added logout functionality, email verification
+
+[33mcommit 017696acf8db7dc5a0d127feaf7fa8d0bf189faa[m
+Author: ioavliv <ilivneh@nyit.edu>
+Date:   Sun May 9 09:27:26 2021 -0400
+
+    Added logout functionality, email verification
+    Removed back button on user preference checklist
+
+[33mcommit bc9e2598487681faefb90279e43d8fd637f2b3a4[m
+Merge: 1904ee5 f892523
+Author: notlydia <38929153+notlydia@users.noreply.github.com>
+Date:   Sat May 8 16:30:27 2021 -0400
+
+    Merge pull request #10 from Sakshi16/Login-Register-UI
+    
+    Change Login and Register UI
+
+[33mcommit 1904ee55568d245b47a01cb543ff3934ea01f9f6[m
+Merge: 7ed2877 5ad23eb
+Author: notlydia <38929153+notlydia@users.noreply.github.com>
+Date:   Sat May 8 16:29:53 2021 -0400
+
+    Merge pull request #9 from Sakshi16/Lydia2
+    
+    Change color for checklist
+
+[33mcommit f892523919cebad51b37399829fd1dd1ebc40278[m[33m ([m[1;31morigin/Login-Register-UI[m[33m)[m
+Merge: 778605b 10ac7ad
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Sat May 8 15:55:04 2021 -0400
+
+    Merge branch 'master' into Login-Register-UI
+    
+    # Conflicts:
+    #       app/src/main/java/com/example/fithub/user_preference_checklist.java
+
+[33mcommit 10ac7ad2db0b3662517cfdbd58d3b6a09266a1ed[m
+Merge: 0c60910 7ed2877
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Sat May 8 15:53:59 2021 -0400
+
+    Merge branch 'master' of https://github.com/Sakshi16/FitHub
+
+[33mcommit 7ed287766dd37e9f24abb89df4e70a24f0cdf508[m
+Author: ioavliv <ilivneh@nyit.edu>
+Date:   Sat May 8 15:10:56 2021 -0400
+
+    Add logout button, checklist button functionality
+
+[33mcommit 778605b7c0f55b2b7c33192ce695209af2fa279a[m
+Merge: fed2750 0c60910
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Fri May 7 16:36:48 2021 -0400
+
+    Merge branch 'master' into Login-Register-UI
+    
+    # Conflicts:
+    #       app/src/main/java/com/example/fithub/Login.java
+    #       app/src/main/java/com/example/fithub/Register.java
+    #       app/src/main/java/com/example/fithub/SplashScreen.java
+    #       app/src/main/res/drawable/ic_email.xml
+    #       app/src/main/res/drawable/ic_email_focused.xml
+    #       app/src/main/res/drawable/ic_password.xml
+    #       app/src/main/res/drawable/ic_password_focused.xml
+    #       app/src/main/res/drawable/ic_person.xml
+    #       app/src/main/res/drawable/ic_person_focused.xml
+
+[33mcommit 0c60910b041c404ef8ab85b82f739644defe6e06[m
+Merge: 5ad23eb 5995eba
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Fri May 7 15:11:22 2021 -0400
+
+    Merge branch 'master' of https://github.com/Sakshi16/FitHub
+
+[33mcommit 5995ebabe04283e86a8c127757a67e1518d3a6d0[m
+Author: ioavliv <ilivneh@nyit.edu>
+Date:   Fri May 7 09:16:35 2021 -0400
+
+    Connect New UI Login/Register with User Preference Checklist
+
+[33mcommit fed2750b5a40d92508a148009361cd0488ed16b1[m
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Fri May 7 01:06:39 2021 -0400
+
+    Add Register switch to Login
+
+[33mcommit 5afaa3dd804eea910b5da7d9f810404020cf1ec9[m
+Merge: 31e5d32 5ad23eb
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Fri May 7 00:45:10 2021 -0400
+
+    Merge branch 'master' into Login-Register-UI
+    
+    # Conflicts:
+    #       app/src/main/AndroidManifest.xml
+    #       app/src/main/java/com/example/fithub/SplashScreen.java
+    #       app/src/main/res/values/themes.xml
+
+[33mcommit 5ad23eb16e0e653487874dbb9097f0973e0a3c5b[m
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Fri May 7 00:30:56 2021 -0400
+
+    Change color for checklist
+
+[33mcommit 31e5d32bb3d6b31e16474d1ff6e87249547b5935[m
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Thu May 6 23:57:37 2021 -0400
+
+    Add Login switch to Register
+
+[33mcommit 92e58c95f4f93e7fa7472bcb94354abc48b8a95b[m
+Author: dibakar7951 <64855725+dibakar7951@users.noreply.github.com>
+Date:   Thu May 6 23:00:29 2021 -0400
+
+    Dibakar (#8)
+    
+    * added checklist
+    
+    * added checklist
+    
+    * added checklist
+
+[33mcommit a54885226a2a45cb54fdbe90af22d2200c740d18[m
+Author: dibakar7951 <64855725+dibakar7951@users.noreply.github.com>
+Date:   Thu May 6 16:15:45 2021 -0400
+
+    Create user_preference_checklist.xml
+
+[33mcommit 0d923eee37f85932d7040ef4eb2a2b1dd6c3be64[m
+Author: dibakar7951 <64855725+dibakar7951@users.noreply.github.com>
+Date:   Thu May 6 16:17:56 2021 -0400
+
+    Create user_preference_chacklist.java
+
+[33mcommit 66e321f743077355e74494b2b55b1d12f046c9ac[m
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Wed May 5 20:15:54 2021 -0400
+
+    Add constraints to pages
+
+[33mcommit 780a1d8df4adf6b188ec4ad7913ea1c6d3162ff0[m
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Wed May 5 18:11:27 2021 -0400
+
+    Change Register UI, remove status bars
+
+[33mcommit 1747081c1168b738c0cceb51ffda83fd5cd1ab2c[m
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Mon May 3 01:43:44 2021 -0400
+
+    Change Login UI - Custom EditText
+
+[33mcommit 72328c55cabaecfcb43e40549614299dc2eafc64[m
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Sat May 1 22:55:20 2021 -0400
+
+    Change Login and Register UI
+
+[33mcommit c6d8b827be21dc1859fb53812926f8e0bb0429a3[m
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Sat May 1 19:26:01 2021 -0400
+
+    Copy Ioav's Login and Register
+
+[33mcommit a2fefd5e0c24adffdddac40b977bd712c68c40d9[m
+Merge: ee0320e 1aaf6e5
+Author: notlydia <38929153+notlydia@users.noreply.github.com>
+Date:   Sat May 1 14:59:18 2021 -0400
+
+    Merge pull request #5 from Sakshi16/Lydia2
+    
+    Remove action bars, change colors to blue, adjust things
+
+[33mcommit 1aaf6e591052be8c1e0ad05d33d8f9640528a173[m
+Author: notlydia <yougotfluffy@gmail.com>
+Date:   Sat May 1 03:19:49 2021 -0400
+
+    Remove action bars, change colors to blue, adjust things
+
+[33mcommit ee0320e887ef759653d64ebbc8017919b58a44dd[m
+Merge: 15dfa7a 5c4610f
+Author: Michael <42577814+LucidWinter@users.noreply.github.com

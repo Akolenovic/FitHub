@@ -26,25 +26,25 @@
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="16dp"
-        android:ems="10"
-        android:hint="Email"
-        android:inputType="textPersonName"
-        android:textColor="@color/black"
-        android:textColorHint="@color/gray"
-        android:textSize="24sp"
-
-        android:paddingStart="12dp"
-        android:paddingLeft="12dp"
         android:background="@drawable/custom_input"
         android:drawableStart="@drawable/custom_email_icon"
         android:drawableLeft="@drawable/ic_email"
         android:drawablePadding="12dp"
+        android:ems="10"
+        android:hint="Email"
 
-        app:layout_constraintTop_toBottomOf="@id/logoHeart"
+        android:inputType="textPersonName"
+        android:paddingStart="12dp"
+        android:paddingLeft="12dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gray"
+        android:textSize="24sp"
+
         app:layout_constraintBottom_toTopOf="@+id/password"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/logoHeart" />
 
     <EditText
         android:id="@+id/password"
